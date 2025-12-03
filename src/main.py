@@ -1,6 +1,5 @@
 def main():
-    print("Hello from moga-sched!")
-
+    pass
 
 if __name__ == "__main__":
     main()
