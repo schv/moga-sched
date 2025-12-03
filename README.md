@@ -1,4 +1,5 @@
-# Exam Timetabling with Genetic Algorithm
+# Exam Timetables using MOGA
+An attempt in solving exam scheduling with Multi-Objective Genetic Algorithm  
 
 ## Dataset
 University of Toronto Benchmark Data v2  
